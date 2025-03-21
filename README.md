@@ -12,7 +12,7 @@ Task reminders with WorkManager
 
 Performance profiling with Android Profiler
 
-AI-powered task descriptions (optional, using Gemini API)
+AI-powered task descriptions using Gemini API
 
 🏗️ Architecture
 
